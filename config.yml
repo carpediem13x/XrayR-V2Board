@@ -7,8 +7,8 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "https://speed.xyfzff.xyz" # 修改这里
-      ApiKey: "xyf27180992012345" # 修改这里
+      ApiHost: "speed.xyfzff.xyz" # 修改这里
+      ApiKey: "27180992012345678" # 修改这里
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
